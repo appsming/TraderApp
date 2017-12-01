@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6811534a-604f-6b46-ba6f-4f9163813cae++5118",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "6811534a-604f-6b46-ba6f-4f9163813cae++5118" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6811534a-604f-6b46-ba6f-4f9163813cae++5118" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4264A450-A88C-4553-9F87-009877553A55",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6811534a-604f-6b46-ba6f-4f9163813cae++5118" : "IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TraderApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TraderApp\/TraderApp.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.0.129:6543\/svn\/sjcx",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6811534a-604f-6b46-ba6f-4f9163813cae++5118"
+    }
+  ]
+}
